@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='htp://faceseo.vn' target='_blank'><img src='http://faceseo.vn/images/banner-linh-nguyen.gif' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://batdongsanhungthinhland.net/' target='_blank'><img src='http://batdongsanhungthinhland.net/data/upload/PHOI%20CANH%20TONG%20TH_1.png' width='500px'/>SENTOSA VILA MUI NE</a>. KHU RESORT MŨI NÉ PHAN THIẾT. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
